@@ -1,0 +1,7 @@
+build/
+*.class
+*.jar
+.smartschedule/
+.DS_Store
+.idea/
+.vscode/
